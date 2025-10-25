@@ -195,10 +195,15 @@ const AddPropertyForm = ({ onFormClose }) => {
               onChange={handleChange}
               className="w-full p-2 border border-orange-200 rounded-md focus:ring-orange-500 focus:border-orange-500 transition-all duration-200"
             >
+              <option>Appartment</option>
+              <option>Boutique</option>
               <option>House</option>
-              <option>Apartment</option>
               <option>Land</option>
               <option>Office</option>
+              <option>Restaurant</option>
+              <option>Retail</option>
+              <option>Studio</option>
+
             </select>
           </div>
         </div>
