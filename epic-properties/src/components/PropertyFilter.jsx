@@ -64,7 +64,7 @@ const PropertyFilter = ({ onFilterChange }) => {
             >
               <option value="">Select Type</option>
               <option value="Appartment">Appartment</option>
-              <option value="Boutique House">Boutique House</option>
+              <option value="Boutique Houses">Boutique Houses</option>
               <option value="House">House</option>
               <option value="Land">Land</option>
               <option value="Office">Office</option>
