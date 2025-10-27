@@ -12,7 +12,7 @@ const CategoryNav = () => {
   const categories = [
     // Use the same strings as the PropertyFilter <option> values so URL category filters match
     "Appartment", "Boutique Houses", "House", "Land",
-    "Office", "Restaurant", "Retail", "Studio Appartments"
+    "Office", "Restaurant", "Retail", "Studio Apartments"
   ];
 
   const handleSignOut = async () => {
