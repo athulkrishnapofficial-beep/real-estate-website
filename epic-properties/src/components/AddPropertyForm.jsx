@@ -207,7 +207,7 @@ const AddPropertyForm = ({ onFormClose }) => {
               className="mt-1 w-full p-2 border border-orange-300 rounded-md focus:ring-orange-500 focus:border-orange-500"
             >
               <option>House</option>
-              <option>Appartment</option>
+              <option>Apartment</option>
               <option>Boutique Houses</option>
               <option>Land</option>
               <option>Office</option>
