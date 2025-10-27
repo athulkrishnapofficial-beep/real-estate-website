@@ -213,7 +213,7 @@ const AddPropertyForm = ({ onFormClose }) => {
               <option>Office</option>
               <option>Restaurant</option>
               <option>Retail</option>
-              <option>Studio Appartments</option>
+              <option>Studio Apartments</option>
             </select>
           </div>
         </div>
