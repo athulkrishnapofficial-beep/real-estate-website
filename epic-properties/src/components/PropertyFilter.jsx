@@ -63,7 +63,7 @@ const PropertyFilter = ({ onFilterChange }) => {
               className="w-full p-2 border border-gray-600 rounded-md text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
             >
               <option value="">Select Type</option>
-              <option value="Apartment">Apartment</option>
+              <option value="Apartments">Apartments</option>
               <option value="Boutique Houses">Boutique Houses</option>
               <option value="House">House</option>
               <option value="Land">Land</option>
