@@ -5,6 +5,7 @@ A modern, full-stack real estate website built with React, Vite, Tailwind CSS, a
 **Tagline:** "Real estate services un simplified way."
 
 [**Live Demo Link**](https://real-estate-website-nine-cyan.vercel.app/) · [**Report Bug**](https://github.com/athulkrishnapofficial-beep/real-estate-website/issues) · [**Request Feature**](https://github.com/athulkrishnapofficial-beep/real-estate-website/issues)
+![Ss epi](https://github.com/user-attachments/assets/fc865f0a-4c9f-49d2-8279-5d10c14c8c4d)
 
 ---
 
