@@ -80,4 +80,5 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 **Athul Krishna**
 * **GitHub:** [@athulkrishnapofficial-beep](https://github.com/athulkrishnapofficial-beep)
-* **Website:** [Athul krishna p](https://portfolio-website-tau-six-41.vercel.app/)
+* **LinkedIn:** [Your LinkedIn URL](https://www.linkedin.com/in/athulkrishnap)
+* **Website:** [Athul krishna](https://portfolio-website-tau-six-41.vercel.app/)
